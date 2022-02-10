@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yogesh Taware </h1>
-<h3 align="center">BE in Electronic and Telecommunications | Web Developer | Python | Arduino | Augmented Reality Designer | Learner | Educator.</h3>
+<h3 align="center">BE in Electronic and Telecommunications | Python | Arduino  | Learner | Educator.</h3>
 
 
 ## 🙋‍♂️ About Me
