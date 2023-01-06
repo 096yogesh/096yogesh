@@ -26,7 +26,6 @@
      <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.augmentedreality.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/augmented-reality.png"/> </a>
    <a express-original-wordmark.svg" alt="express" width="40" height="50"/> </a>
 </p>
 
