@@ -13,18 +13,16 @@
 
 - 👨‍💻 All of my projects are available at **My Portfolio**
 
-- 📫 How to reach me **096yogesh@gmail.com**
+- 📫 How to reach me **yogeshbt96@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.augmentedreality.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/augmented-reality.png"/> </a>
