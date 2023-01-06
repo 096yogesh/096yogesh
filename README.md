@@ -20,7 +20,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
- <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+ <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+ <a href="https://www.java.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
